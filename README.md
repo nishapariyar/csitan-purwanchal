@@ -9,3 +9,4 @@ https://anantamishra.github.io/csitan-purwanchal/
 
 Contributors:
 [KoolArpan](https://github.com/kooolarpan)
+[nishapariyar](https://github.com/nishapariyar)
