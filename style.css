@@ -660,7 +660,7 @@ form .form-control {
 #footer-menu ul li a {
   position: relative;
   overflow: hidden;
-  border: 3px solid #fff;
+  border: 0 solid #fff;
   width: 40px;
   height: 40px;
   background: #fff;
